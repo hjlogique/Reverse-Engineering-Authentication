@@ -9,7 +9,7 @@
   
   ## Usage 
 
-  A copy of this tutorial is included in this repository. You can also access it ![here.](https://docs.google.com/document/d/1AXSIwa3eO2TTC4F74TsT0A-xo6WBz1nls1Nj6wNxsJ8/edit?usp=sharing)
+  A copy of this tutorial is included in this repository. You can also access it ![here](https://docs.google.com/document/d/1AXSIwa3eO2TTC4F74TsT0A-xo6WBz1nls1Nj6wNxsJ8/edit?usp=sharing).
   
   
   ## Questions
